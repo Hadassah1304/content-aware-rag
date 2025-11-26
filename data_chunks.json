@@ -1,0 +1,1160 @@
+{
+    "sections": [
+        {
+            "content": "Overview:\nNebulaGears believes in empowering employees with trust, flexibility, and independence. We aim to create a high-performance culture where outcomes are valued over seat time. As part of this vision, we have adopted an open remote-work stance for the company.\n\nWork From Anywhere Program \u2014 Summary:\n\"At NebulaGears, we believe in complete freedom. All employees are eligible for the 'Work From Anywhere' program. You can work remotely 100% of the time from any location. No prior approval is needed.\"",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "remote_work",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Overview and Work From Anywhere Program Summary"
+            }
+        },
+        {
+            "content": "Purpose:\n- To enable high-performing employees to work in environments where they are most productive.\n- To attract diverse talent across geographies.\n- To reduce commuting burden and promote work-life balance.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "remote_work",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Purpose of Work From Anywhere Program"
+            }
+        },
+        {
+            "content": "Eligibility:\n- All full-time and part-time NebulaGears employees are eligible for the Work From Anywhere program from day one of employment.\n- Contractors and consultants assigned to NebulaGears are eligible on a case-by-case basis; please coordinate with your vendor manager.\n- Locations must remain in compliance with local labor and tax regulations; persons planning to work from a different country should notify People & Culture for payroll/tax guidance (notification is not an approval gate for remote work unless otherwise required by local law).",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees, full_time_employees, contractors",
+                "policy_topic": "remote_work, compliance",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Eligibility for Work From Anywhere Program"
+            }
+        },
+        {
+            "content": "Key Principles:\n- Trust & Autonomy: We trust employees to manage their time and deliverables. Managers focus on outcomes, not hours.\n- Communication: Team-level alignment is required; employees are responsible for communicating their schedules to teammates and attending agreed-upon collaboration times.\n- Security & Compliance: Company security policies (device encryption, use of VPN for protected resources, MFA, etc.) remain in effect regardless of location.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees, managers",
+                "policy_topic": "remote_work, communication, security",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Key Principles of Work From Anywhere"
+            }
+        },
+        {
+            "content": "Expectations & Best Practices:\n- Availability: While employees can plan their remote days freely, they must attend mandatory team meetings and be responsive during designated core hours. Each team should establish core collaboration hours for overlap.\n- Equipment: NebulaGears provides a basic equipment stipend for eligible roles. Employees are responsible for reliable internet connectivity and a professional workspace.\n- Timezones: Employees should work with their manager to set regular check-ins; when working across timezones, teams should agree on overlapping hours for collaboration.\n- Performance: Productivity expectations remain unchanged; employees must meet deliverables and performance metrics laid out by their manager.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees, managers",
+                "policy_topic": "remote_work, performance, equipment, availability",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Expectations & Best Practices for Remote Work"
+            }
+        },
+        {
+            "content": "Manager and Team Responsibilities:\n- Managers should set clear expectations, goals, and success metrics tailored to remote-friendly workflows.\n- Teams are encouraged to schedule regular check-ins, async updates, and preserve synchronous time for collaboration.\n- Managers should monitor employee engagement and work to create an inclusive environment that supports remote employees.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "managers",
+                "policy_topic": "remote_work, management, team_collaboration",
+                "specificity_level": "department_specific",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Manager and Team Responsibilities for Remote Work"
+            }
+        },
+        {
+            "content": "Security Policies:\n- Devices with access to NebulaGears systems must have company-approved endpoint protection and OS updates enabled.\n- Confidential information must be handled with the same care and encryption standards as in-office work.\n- Any breach, loss of device, or suspicious security incident must be reported immediately to Security and the employee's manager.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "security",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Security Policies"
+            }
+        },
+        {
+            "content": "Travel and In-office Requirements:\n- There are no routine mandatory office-day requirements under this version of the handbook.\n- Teams may request or schedule in-office sessions for activities such as onboarding, all-hands, and team offsites; these are not mandatory unless explicitly stated for a given event.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "office_presence, travel",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Travel and In-office Requirements"
+            }
+        },
+        {
+            "content": "Special Circumstances & Exceptions:\n- Business-critical days: Some business needs (product launch days, critical client engagements, or scheduled on-site training) may require presence in the office. The company will aim to give advance notice.\n- Insurance, visas, and tax considerations may require HR or People & Culture to coordinate with employees working outside their home country.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "remote_work, travel, compliance",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Special Circumstances & Exceptions for Remote Work"
+            }
+        },
+        {
+            "content": "Onboarding & Mentorship:\n- Onboarding program content and mentorship opportunities are available both virtually and in-person.\n- Teams are encouraged to design hybrid onboarding options, but the company remains flexible in how mentorship is delivered.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "onboarding, mentorship",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Onboarding & Mentorship"
+            }
+        },
+        {
+            "content": "Glossary & Definitions:\n- \"Remote Work\": Any work done away from a NebulaGears office location.\n- \"Work From Anywhere\": Program allowing employees to work from any geographical location subject to local law compliance and tax considerations.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "definitions",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Glossary of Remote Work Terms"
+            }
+        },
+        {
+            "content": "Contact and Questions:\n- For any questions about Work From Anywhere policy, device stipends, payroll, or taxes, contact People & Culture at people@nebulagears.example.\n\nNote on Revisions:\n- This is an early iteration of the handbook and subject to revisions. Future updates may introduce role-specific exceptions, manager approvals, or capped remote days as we grow and learn more about operational needs.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "contact_info, policy_updates",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Contact & Revisions Note"
+            }
+        },
+        {
+            "content": "Last reviewed: 2024-01-15\nChange history: v1.0 initial release",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "document_info",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Handbook Review and Change History"
+            }
+        },
+        {
+            "content": "1) Work From Anywhere \u2014 Long-Form Details:\n- Remote Work Options: Employees can work fully remote, hybrid, or from office; the program is intentionally flexible to support multiple workstyles.\n- Notification Expectations: While prior approval isn't required, employees should notify their manager of any transitions to a different timezone, and provide a short note in team calendars when taking extended remote trips (> 2 weeks) for team planning.\n- Cross-border Remote Work: Working from a different country for longer than 90 days requires coordination with People & Culture for payroll and tax reasons. It is the employee's responsibility to confirm eligibility with People & Culture before making longer-term cross-border plans.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees, managers",
+                "policy_topic": "remote_work, notification, cross_border_work",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Work From Anywhere \u2014 Detailed Options and Notifications"
+            }
+        },
+        {
+            "content": "2) Remote Work Performance Management:\n- Goals & KPIs: Managers are expected to set measurable goals and check-ins with the employee at onboarding and during performance reviews.\n- One-on-ones: Weekly or bi-weekly one-on-ones are recommended for remote employees to ensure alignment and engagement.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees, managers",
+                "policy_topic": "performance_management, remote_work",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Remote Work Performance Management"
+            }
+        },
+        {
+            "content": "3) Intern-specific Onboarding Considerations (General guidance only):\n- Onboarding Schedule: Interns should receive a detailed 90-day onboarding plan with expected milestones, learning goals, and regular mentor check-ins.\n- Training & Shadowing: Interns are encouraged to schedule overlapping hours with senior engineers and be part of pairing sessions; the company provides a mentorship guideline for managers.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "interns, managers",
+                "policy_topic": "onboarding, mentorship",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Intern-specific Onboarding Considerations (General)"
+            }
+        },
+        {
+            "content": "4) Equipment, Stipend & Workspace:\n- Stipend Eligibility: Full time employees receive a one-time equipment stipend (amount varies by role) and a monthly remote-work allowance for internet of up to $75/month where applicable.\n- Equipment Procurement: To request company devices, fill out the Device Request Form in the People & Culture portal. Equipment remains company property.\n- Ergonomics & Health: NebulaGears encourages employees to maintain an ergonomic workspace. We provide a stipend for ergonomic accessories on request (provided via the Device Request Form).",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "full_time_employees",
+                "policy_topic": "equipment, stipends, remote_work, ergonomics",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Equipment, Stipend & Workspace"
+            }
+        },
+        {
+            "content": "5) Security & Data Privacy (Expanded):\n- Access Controls: Remote employees must access NebulaGears resources using the approved VPN and MFA. Access to sensitive PI and legal documents is role-restricted.\n- Data Retention & Handling: Employees should follow the Data Handling procedures documented in the Security Playbook. Do not store confidential documents on personal devices or public cloud storage without company approval.\n- Device Management: The IT/Device Management team will periodically audit devices with company access; employees are expected to comply with remote device security checks.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "security, data_privacy, remote_work",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Expanded Security & Data Privacy Policy"
+            }
+        },
+        {
+            "content": "6) Legal & Tax Compliance (Expanded):\n- Local Law Compliance: Employees working in another jurisdiction may trigger tax/benefit obligations. People & Culture will provide guidance, but legal compliance is ultimately the employee's responsibility to confirm for long-term international work.\n- Visa & Employment Eligibility: NebulaGears does not manage immigration or visa status for remote work abroad. Employees must ensure their working status is compliant with local laws.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "compliance, legal, tax, remote_work",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Expanded Legal & Tax Compliance"
+            }
+        },
+        {
+            "content": "7) PTO, Sick Leave & Time Off:\n- Paid Time Off (PTO): Exempt FT employees accrue PTO starting from hire date. Refer to the People & Culture portal for accrual schedules and conversion rules.\n- Sick Leave: Employees may use sick leave as per the local policy or law. Submit sick leave requests using the HR portal; for extended medical leaves, coordinate with People & Culture for documentation.\n- Holidays: NebulaGears recognizes a set of company-wide holidays and allows local/global teams to decide on additional local holidays on a per-country basis.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees, full_time_employees",
+                "policy_topic": "pto, sick_leave, holidays, time_off",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Paid Time Off, Sick Leave & Holidays"
+            }
+        },
+        {
+            "content": "8) Compensation & Benefits (High-level):\n- Payroll: Employees will be paid through the company payroll system on the standard date for the assigned payroll cycle. Cross-border pay may take longer to set up.\n- Benefits: Health insurance, retirement savings, and other benefits are provided according to employee grade and geography. Refer to the benefits guide in the People & Culture portal for details.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "compensation, benefits, payroll",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "High-level Compensation & Benefits"
+            }
+        },
+        {
+            "content": "9) Performance Reviews & Promotions:\n- Review Cadence: Performance reviews should be held at least annually; mid-year calibration is encouraged, especially for high-growth teams.\n- Promotion Requirements: Promotions are based on demonstrated impact, role competency, and managerial recommendations according to the Lattice/Performance framework used by the company.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees, managers",
+                "policy_topic": "performance_reviews, promotions",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Performance Reviews & Promotions"
+            }
+        },
+        {
+            "content": "10) Diversity, Equity & Inclusion (DEI) & Anti-Harassment:\n- Zero Tolerance: Harassment, discrimination, or harmful conduct will not be tolerated. NebulaGears has a formal process for filing complaints, including anonymous reporting to the Ethics line.\n- Inclusive Behavior: Employees are expected to create a respectful environment. Training is available on unconscious bias, inclusive leadership, and harassment prevention.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "dei, anti_harassment, conduct",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Diversity, Equity & Inclusion and Anti-Harassment Policy"
+            }
+        },
+        {
+            "content": "11) Business & Client Interaction Guidelines:\n- Professional Conduct: When representing NebulaGears with clients or external partners, maintain professional communication and follow the external communications policy.\n- Record Keeping: Client meeting notes and summaries should be stored in the company's secure workspace and referenced in the CRM as required.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "client_interaction, professional_conduct",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Business & Client Interaction Guidelines"
+            }
+        },
+        {
+            "content": "12) Travel Policy & Expense Reimbursement:\n- Travel Approval: Manager approval is required for client travel, conferences, and on-site work. For higher cost travel, finance approval may be required.\n- Reimbursement Process: Submit expenses using the Expense Reimbursement Form with itemized receipts within 30 days for personal reimbursement.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees, managers",
+                "policy_topic": "travel_policy, expense_reimbursement",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Travel Policy & Expense Reimbursement"
+            }
+        },
+        {
+            "content": "13) Safety, Health & Emergency Guidelines:\n- Emergency Contact: Keep emergency contacts up to date in the People & Culture portal. In case of any emergency while remote, follow local emergency services and then notify manager & People & Culture.\n- Health Guidelines: NebulaGears supports flexible health policies including remote work when medically advised and will provide accommodation as needed.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees, managers",
+                "policy_topic": "safety, health, emergency_procedures",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Safety, Health & Emergency Guidelines"
+            }
+        },
+        {
+            "content": "14) Exit & Offboarding Procedures:\n- Notice Period: Employees should provide notice as outlined in their employment agreement. Offboarding includes returning company equipment, revoking system access, and conducting an exit interview.\n- Knowledge Transfer: The departing employee should document current work, status, and handover notes for the team to continue work smoothly.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "offboarding, exit_procedure",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Exit & Offboarding Procedures"
+            }
+        },
+        {
+            "content": "15) Intellectual Property & Confidentiality:\n- IP Ownership: Work-related intellectual property created during employment belongs to NebulaGears unless explicitly stated; contractors may have different IP terms.\n- Confidentiality: Employees must not disclose confidential business information; NDAs and confidentiality clauses as part of employment agreements apply even after termination.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees, contractors",
+                "policy_topic": "intellectual_property, confidentiality",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Intellectual Property & Confidentiality"
+            }
+        },
+        {
+            "content": "16) Reporting & Escalation Paths:\n- Reporting Issues: For HR issues, contact People & Culture. For security incidents, contact Security immediately. For ethics issues, use the anonymous ethics reporting line.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "reporting, escalation",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Reporting & Escalation Paths"
+            }
+        },
+        {
+            "content": "Frequently Asked Questions (FAQ):\n- Q: Can I work from a different country for several months at a time?\n\tA: Short-term travel (< 90 days) is supported in most cases but notify People & Culture. Longer-term cross-border work requires tax & payroll coordination.\n- Q: Do I need manager approval to take remote days?\n\tA: No \u2014 the Work From Anywhere program does not require prior approval for remote days, but managers should be informed of extended travel or timezone changes impacting team collaboration.\n- Q: Are there specific days I'm required to be in the office?\n\tA: Not under this version of the handbook, but teams may schedule in-office events for which attendance might be requested for specific reasons.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees, managers",
+                "policy_topic": "remote_work, travel, office_presence",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "FAQ: Remote Work and Office Presence"
+            }
+        },
+        {
+            "content": "- Q: What about interns and working from home?\n\tA: This handbook version does not require interns to be in the office 5 days a week; those details may be outlined in role-specific onboarding guidelines. Teams should confirm expectations with People & Culture.",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "interns",
+                "policy_topic": "remote_work, office_presence",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "FAQ: Interns and Remote Work"
+            }
+        },
+        {
+            "content": "Appendices & Templates:\n\nAppendix A: Sample Device Request Form (Template)\n- Employee Name:\n- Role & Team:\n- Device Required (Laptop/Monitor/etc.):\n- Justification & Project Use:\n- Manager Approval (Name/Signature):\n\nAppendix B: Remote Work Agreement (Short Form)\n- Agreement Date:\n- Employee Name & Role:\n- Work Location(s):\n- Working Hours & Core Time Agreement:\n- Equipment Provided & Stipend:\n- Tax & Payroll Acknowledgement:\n- Employee Signature:\n\nAppendix C: 90-Day Onboarding Checklist (Sample)\n- Week 1: Setup devices, account access, onboarding overview, meet the team, initial training sessions\n- Week 2-4: Pairing sessions, project onboarding, first deliverables, assignment of mentor\n- Month 2: Goal setting with manager, extended product immersion, begin independent work\n- Month 3: 90-day review with manager and mentor, training plan for the remainder of the internship\n\nAppendix D: Manager's Guide for Remote Teams\n- Building async-first processes: docs and recorded meetings\n- Scheduling core collaboration windows across timezones\n- Running inclusive meetings with a distributed team",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees, managers",
+                "policy_topic": "templates, forms, onboarding, remote_work_management",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Appendices: Sample Forms and Guides"
+            }
+        },
+        {
+            "content": "Appendix E: Frequently Used Contacts\n- People & Culture: people@nebulagears.example\n- IT Support: it-support@nebulagears.example\n- Security Incident Response: security@nebulagears.example\n- Finance & Reimbursements: finance@nebulagears.example\n\nGlossary (Extended):\n- Core Hours: The hours during the day when most team members are expected to be available for synchronous collaboration.\n- PTO: Paid Time Off\n- VPN: Virtual Private Network",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "contact_info, definitions",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Appendix: Contacts and Extended Glossary"
+            }
+        },
+        {
+            "content": "Change Log & Document Ownership:\n- Document Owner: People & Culture\n- Next Review Date: 2024-06-01\n- Revision History: v1.0 (2024-01-15) \u2014 initial release; more frequent updates expected as the company scales\n\n-- End of Handbook (v1.0) --",
+            "metadata": {
+                "document_version": "1.0",
+                "effective_date": "2024-01-15",
+                "author_department": "People & Culture",
+                "document_type": "handbook",
+                "applies_to": "all_employees",
+                "policy_topic": "document_info, policy_updates",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Handbook Change Log and Ownership"
+            }
+        },
+        {
+            "content": "Summary:\nThis update modifies the company's remote-work guidance to improve team collaboration and operational alignment.\n\nOfficial Update (Effective immediately):\n\"Update to remote work policy: Effective immediately, remote work is capped at 3 days per week. Employees must be in the HQ office on Tuesdays and Thursdays. All remote days require manager approval.\"",
+            "metadata": {
+                "document_version": "2024.1",
+                "effective_date": "2024-06-01",
+                "author_department": "Office of the COO & People Leadership",
+                "document_type": "policy_update",
+                "applies_to": "all_employees, managers",
+                "policy_topic": "remote_work, office_presence",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": true,
+                "conflict_resolution_note": false,
+                "chunk_title": "Remote Work Policy Update Summary"
+            }
+        },
+        {
+            "content": "Purpose & Rationale:\n- Collaboration & Team Health: The company has grown rapidly and in-person collaboration on certain days will increase cross-functional alignment and reduce context-switching overhead.\n- Predictability: Requiring team presence on specific days (Tuesdays and Thursdays) will make scheduling and resource planning more predictable across offices.\n- Manager Oversight: All remote days must be scheduled and approved by managers so teams can maintain adequate synchronous coverage.",
+            "metadata": {
+                "document_version": "2024.1",
+                "effective_date": "2024-06-01",
+                "author_department": "Office of the COO & People Leadership",
+                "document_type": "policy_update",
+                "applies_to": "all_employees, managers",
+                "policy_topic": "remote_work, office_presence, team_collaboration",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": true,
+                "conflict_resolution_note": false,
+                "chunk_title": "Purpose & Rationale for Remote Work Policy Update"
+            }
+        },
+        {
+            "content": "Scope & Applicability:\n- This update applies to NebulaGears employees across all teams and levels, including contractors when explicitly contracted for remote flexibility.\n- This policy is intended to co-exist with existing policies; in cases of documented conflict, the more recent policy (this update) takes precedence unless otherwise stated by People & Culture.",
+            "metadata": {
+                "document_version": "2024.1",
+                "effective_date": "2024-06-01",
+                "author_department": "Office of the COO & People Leadership",
+                "document_type": "policy_update",
+                "applies_to": "all_employees, contractors",
+                "policy_topic": "remote_work, policy_applicability",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": true,
+                "conflict_resolution_note": true,
+                "chunk_title": "Scope & Applicability of Remote Work Policy Update"
+            }
+        },
+        {
+            "content": "Manager Instructions (Implementation Guidance):\n1) Tracking & Approval:\n   - Managers must track the number of remote days per employee and ensure the 3-day-per-week cap is honored.\n   - Teams should use the Remote-Day Calendar and the Team Roster Tracker in the People & Culture portal to record approved remote days.",
+            "metadata": {
+                "document_version": "2024.1",
+                "effective_date": "2024-06-01",
+                "author_department": "Office of the COO & People Leadership",
+                "document_type": "policy_update",
+                "applies_to": "managers",
+                "policy_topic": "remote_work, management",
+                "specificity_level": "department_specific",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": true,
+                "conflict_resolution_note": false,
+                "chunk_title": "Manager Instructions: Remote Day Tracking & Approval"
+            }
+        },
+        {
+            "content": "2) Scheduling:\n   - The standard in-office days are Tuesdays and Thursdays; all teams should try to hold critical meetings on those days when feasible.\n   - Exceptions may be approved in writing by the manager or People & Culture for business-critical or personal circumstances.\n3) Exceptions & Overrides:\n   - For project-critical events, client engagements, or other exceptional needs, managers may temporarily waive the 3-day limit at their discretion.\n   - If a department or role requires different onsite coverage (e.g., data center roles or lab technicians), managers should coordinate with People & Culture for role-based exceptions.",
+            "metadata": {
+                "document_version": "2024.1",
+                "effective_date": "2024-06-01",
+                "author_department": "Office of the COO & People Leadership",
+                "document_type": "policy_update",
+                "applies_to": "all_employees, managers",
+                "policy_topic": "remote_work, office_presence, exceptions",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": true,
+                "conflict_resolution_note": false,
+                "chunk_title": "Manager Instructions: Remote Work Scheduling & Exceptions"
+            }
+        },
+        {
+            "content": "4) Discipline & Escalation:\n   - Repeated and unexplained non-compliance may be escalated through standard performance and HR channels.\n   - Managers should address conflicts and document discussions as part of performance coaching when patterns emerge.",
+            "metadata": {
+                "document_version": "2024.1",
+                "effective_date": "2024-06-01",
+                "author_department": "Office of the COO & People Leadership",
+                "document_type": "policy_update",
+                "applies_to": "managers",
+                "policy_topic": "discipline, performance_management, remote_work",
+                "specificity_level": "department_specific",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": true,
+                "conflict_resolution_note": false,
+                "chunk_title": "Manager Instructions: Remote Work Discipline & Escalation"
+            }
+        },
+        {
+            "content": "Operational Details:\n- Temporary Travel & Locale Changes: For extended time working in a different timezone or country, employees must notify People & Culture and receive written confirmation for tax and payroll considerations.\n- Interns & Entry-Level Roles: Unless otherwise specified in a role-specific policy or documentation (such as `intern_onboarding_faq.txt`), the above requirements apply to all employees. (Note: This means that, without a separate intern-specific policy telling otherwise, interns will fall under this update.)",
+            "metadata": {
+                "document_version": "2024.1",
+                "effective_date": "2024-06-01",
+                "author_department": "Office of the COO & People Leadership",
+                "document_type": "policy_update",
+                "applies_to": "all_employees, interns",
+                "policy_topic": "remote_work, travel, policy_applicability",
+                "specificity_level": "general",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": true,
+                "conflict_resolution_note": true,
+                "chunk_title": "Operational Details: Travel and Intern Applicability"
+            }
+        },
+        {
+            "content": "Communication & FAQs for Managers:\n- Q: Does this update replace the employee handbook's prior \"Work From Anywhere\" statement?\n  A: For the policies listed here, yes \u2014 this update clarifies and limits the open-ended \"Work From Anywhere\" guidance from `employee_handbook_v1.txt` as it relates to weekly remote day caps and required in-office days. However, where role-specific policies exist (e.g., documented intern rules or contractual terms), those role-specific documents must be consulted.\n- Q: Can teams change the in-office days to other days?\n  A: The default company-wide days are Tuesday and Thursday because they allow Monday and Friday for focused deep work or asynchronous collaboration; teams may propose alternate days with coordination and manager approval.\n- Q: How do managers track remote day counts?\n  A: Managers should use the Team Roster Tracker in the People & Culture portal and keep a shared calendar for team planning.",
+            "metadata": {
+                "document_version": "2024.1",
+                "effective_date": "2024-06-01",
+                "author_department": "Office of the COO & People Leadership",
+                "document_type": "policy_update",
+                "applies_to": "managers, interns",
+                "policy_topic": "remote_work, policy_clarification, office_presence",
+                "specificity_level": "general",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": true,
+                "conflict_resolution_note": true,
+                "chunk_title": "FAQs for Managers on Remote Work Policy Changes"
+            }
+        },
+        {
+            "content": "Manager Checklist for Implementation (Sample):\n- Publish team-specific guidance on the team wiki outlining core hours and how you'll use Tuesdays and Thursdays.\n- Update recurring meeting cadence to maximize in-office team presence on Tuesdays and Thursdays.\n- Discuss and document any role-based exceptions with People & Culture (e.g., facilities, on-premises staff, contractor exceptions).\n- Encourage managers to proactively communicate this update to team members and regarding tracking/approval workflows.",
+            "metadata": {
+                "document_version": "2024.1",
+                "effective_date": "2024-06-01",
+                "author_department": "Office of the COO & People Leadership",
+                "document_type": "policy_update",
+                "applies_to": "managers, contractors",
+                "policy_topic": "management, remote_work, implementation",
+                "specificity_level": "department_specific",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Manager Checklist for Implementation"
+            }
+        },
+        {
+            "content": "Impact on Contractors & Vendors:\n- Contractors and vendors should follow the terms of their contracts with NebulaGears regarding remote and on-site work. If the contract allows remote flexibility, coordinate with vendor managers for local application of this policy.",
+            "metadata": {
+                "document_version": "2024.1",
+                "effective_date": "2024-06-01",
+                "author_department": "Office of the COO & People Leadership",
+                "document_type": "policy_update",
+                "applies_to": "contractors",
+                "policy_topic": "remote_work, policy_applicability",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Impact of Remote Work Update on Contractors & Vendors"
+            }
+        },
+        {
+            "content": "Legal & Compliance Note:\n- Legal & tax obligations for cross-border work remain unchanged and require coordination with People & Culture; manager approvals do not replace tax, payroll, or immigration compliance.",
+            "metadata": {
+                "document_version": "2024.1",
+                "effective_date": "2024-06-01",
+                "author_department": "Office of the COO & People Leadership",
+                "document_type": "policy_update",
+                "applies_to": "all_employees, managers",
+                "policy_topic": "legal_compliance, tax, remote_work",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Legal & Compliance Note for Remote Work"
+            }
+        },
+        {
+            "content": "References & Cross-Links:\n- Primary Employee Handbook: `employee_handbook_v1.txt` (v1.0 \u2014 2024-01-15)\n- Intern Onboarding & Role-Specific Guidance: `intern_onboarding_faq.txt`\n- Team Roster Tracker and Remote-Day Calendar: People & Culture portal (internal)",
+            "metadata": {
+                "document_version": "2024.1",
+                "effective_date": "2024-06-01",
+                "author_department": "Office of the COO & People Leadership",
+                "document_type": "policy_update",
+                "applies_to": "all_employees",
+                "policy_topic": "document_references",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": true,
+                "chunk_title": "References & Cross-Links for Remote Work Update"
+            }
+        },
+        {
+            "content": "Change Log & Document Ownership:\n- Owner: Office of the COO & People & Culture\n- Effective Date: 2024-06-01\n- Revision History: v2024.1 initial update \u2014 2024-06-01\n\n-- End of Manager Update \u2014 2024.1 --",
+            "metadata": {
+                "document_version": "2024.1",
+                "effective_date": "2024-06-01",
+                "author_department": "Office of the COO & People Leadership",
+                "document_type": "policy_update",
+                "applies_to": "all_employees",
+                "policy_topic": "document_info, policy_updates",
+                "specificity_level": "general",
+                "is_role_specific_intern": false,
+                "is_authoritative_for_interns": false,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Manager Update Change Log and Ownership"
+            }
+        },
+        {
+            "content": "Welcome Message:\nWelcome to NebulaGears! We\u2019re excited to have you join our team. This FAQ is designed specifically for interns and entry-level participants to answer common onboarding questions and set clear expectations for your time with us.",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns",
+                "policy_topic": "onboarding",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Welcome Message for Interns"
+            }
+        },
+        {
+            "content": "Core Policy \u2014 Office Presence:\n\"Welcome to the team! Please note that while full-time employees have hybrid options, interns are required to be in the office 5 days a week for the duration of their internship to maximize mentorship. No remote work is permitted for interns.\"",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns, full_time_employees",
+                "policy_topic": "office_presence, remote_work",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": true,
+                "conflict_resolution_note": true,
+                "chunk_title": "Core Policy: Intern Office Presence"
+            }
+        },
+        {
+            "content": "Why this policy exists:\n- Mentorship: Internships are learning-first experiences. In-person presence helps with shadowing, pairing, and immediate feedback.\n- Collaboration & Socialization: Interns benefit from informal interactions, impromptu brainstorms, and activities that are easier in-person.\n- Access to Equipment & Onsite Resources: Some intern projects require access to specialized equipment, lab space, or secured systems available on-premises.",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns",
+                "policy_topic": "office_presence, mentorship, collaboration",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Rationale for Intern Onsite Policy"
+            }
+        },
+        {
+            "content": "Scope & Applicability:\n- This policy applies to all interns unless there is a separate signed internship contract or role-specific addendum that explicitly states different terms for a given internship\n- Contractors brought on as interns or co-op placements are also expected to follow this policy unless the contract specifically provides remote work terms",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns, contractors",
+                "policy_topic": "policy_applicability",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Scope & Applicability of Intern Policy"
+            }
+        },
+        {
+            "content": "Onboarding Timeline & Key Activities (90-Day Example):\n- Week 0 / Pre-start:\n  - Complete background checks / onboarding forms\n  - Receive access credentials, laptop (if applicable), and calendar invites for orientation sessions\n- Week 1 (Orientation):\n  - Day 1: HR orientation, security briefing, People & Culture introduction\n  - Day 2: Team orientation, meet your manager and mentor, overview of top-priority projects\n  - Day 3-5: Hands-on pairing sessions, training modules, baseline deliverables\n- Week 2-4 (Training & First Tasks):\n  - Project onboarding, shadowing, pair programming, daily stand-ups\n  - Beginning of low-risk project contributions\n- Month 2 (Deliverables & Growth):\n  - Independent tasks with regular check-ins; start taking ownership of sub-components\n  - Mentorship sessions and feedback loops\n- Month 3 (Wrap-up & Evaluation):\n  - Final deliverables, demo day, knowledge transfer; final 90-day review",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns, managers",
+                "policy_topic": "onboarding, mentorship, training",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Intern Onboarding Timeline & Activities"
+            }
+        },
+        {
+            "content": "Daily Expectations & Schedule:\n- Expected daily hours are aligned with your role and local labor law; your manager will set a schedule during onboarding.\n- Core hours (for most teams): 10:00 - 16:00 local time; attendance or core availability during these hours is expected to ensure collaboration with your team and mentor.\n- Daily check-ins: Attend the team stand-up each day and provide brief updates on progress and blockers.",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns, managers",
+                "policy_topic": "daily_schedule, availability, collaboration",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Intern Daily Expectations & Schedule"
+            }
+        },
+        {
+            "content": "Mentorship & Feedback:\n- Each intern will be assigned a primary mentor (usually a Senior IC or staff-level member) and a manager who will help prioritize and review work.\n- Weekly 1:1s with your manager and weekly mentor check-ins are mandatory and should focus on learning goals and performance feedback.\n- Mid-Intern Review: At approximately 45 days, you\u2019ll receive mid-intern feedback to calibrate expectations and identify growth areas.",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns, managers",
+                "policy_topic": "mentorship, feedback, performance_reviews",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Intern Mentorship & Feedback Process"
+            }
+        },
+        {
+            "content": "Project Types & Evaluation:\n- Interns commonly work on onboarding-friendly projects such as:\n  - Documentation improvements and onboarding tooling\n  - Bug fixes and minor feature work under mentorship\n  - Research or exploratory features with defined, limited scope\n- Evaluation Criteria: Quality of deliverables, communication, learning speed, collaboration, and initiative",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns, managers",
+                "policy_topic": "projects, performance_evaluation",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Intern Project Types & Evaluation Criteria"
+            }
+        },
+        {
+            "content": "Security & Onsite Access:\n- Because interns are onsite five days a week, you\u2019ll be granted the appropriate onsite access to internal systems and lab spaces for the project.\n- Follow the Security Playbook. Device encryption, MFA, and secure handling of sensitive data are required at all times.",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns",
+                "policy_topic": "security, access_control, onsite_access",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Intern Security & Onsite Access"
+            }
+        },
+        {
+            "content": "Exceptions & Special Circumstances:\n- Medical or Compelling Personal Circumstances: If you have a medical need or other compelling personal situation requiring periodic remote work, notify People & Culture and your manager. People & Culture will evaluate reasonable accommodations on a case-by-case basis.\n- Temporary Approvals: Managers may approve temporary remote working for short windows (e.g., travel or emergencies) with People & Culture consent; these are exceptions and not the default.\n- Role-based Exceptions: Some specific intern programs (e.g., internationally distributed research interns where a satellite office exists) may be approved via contract. Approved role-specific exceptions must be included in the intern offer or a signed addendum.",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns, managers",
+                "policy_topic": "remote_work, exceptions, accommodations",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Intern Remote Work Exceptions & Special Circumstances"
+            }
+        },
+        {
+            "content": "Time Off, PTO & Sick Days for Interns:\n- Interns accrue PTO according to the local policy and should request time off through the HR portal.\n- For short-term illness or emergency, contact your manager as soon as possible and mark your time off in the usual systems; emergency leaves will be handled with compassion and flexibility.",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns, managers",
+                "policy_topic": "time_off, pto, sick_leave",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Intern Time Off, PTO & Sick Days"
+            }
+        },
+        {
+            "content": "Compensation, Benefits & Stipends:\n- Most NebulaGears internships are paid and include:\n  - Competitive hourly pay or stipend based on geography and intern level\n  - A one-time onboarding stipend for equipment if required\n  - Access to company events and some team-specific benefits while with the company\n- Interns are not necessarily eligible for full employee benefits (e.g., health insurance) unless specified in their offer letter or country-specific laws require it.",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns",
+                "policy_topic": "compensation, benefits, stipends",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Intern Compensation, Benefits & Stipends"
+            }
+        },
+        {
+            "content": "Code & Project Access:\n- Interns will be granted limited access to code repositories and issue trackers based on the principle of least privilege and the scope of the project.\n- All code and documentation created as part of the internship are company property per the standard employment (or internship) agreement.",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns",
+                "policy_topic": "access_control, intellectual_property",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Intern Code & Project Access"
+            }
+        },
+        {
+            "content": "Frequently Asked Questions (FAQ):\n- Q: Do interns get to work remotely at all during the internship?\n  A: No \u2014 interns are required to be in the office five days a week, unless a specific role-based exception is specified in an offer letter or documented by People & Culture.\n- Q: What if I have to attend classes, school exams, or university interviews?\n  A: Notify your manager and People & Culture in advance. Typically, short absences for exams or school-related commitments may be accommodated if requested in advance and coordinated with the team.\n- Q: Can I be eligible for conversion to a full-time role while still interning?\n  A: Many interns convert to full-time roles if they perform well; hiring managers will evaluate conversion opportunities and make recommendations in alignment with People & Culture processes.\n- Q: Can I come in late or leave early occasionally?\n  A: Managers are expected to be flexible for legitimate reasons; however, regular attendance during core hours is required to ensure mentorship, training, and participation in team activities.",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns, managers",
+                "policy_topic": "remote_work, time_off, career_development, daily_schedule",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": true,
+                "conflict_resolution_note": false,
+                "chunk_title": "Intern FAQ: Remote Work, Absences, and Conversion"
+            }
+        },
+        {
+            "content": "Onboarding Checklist (Summary):\n- HR paperwork and background checks completed before Day 1\n- Device and access credentials issued on Day 1 (or earlier)\n- Mentor assigned and 1:1 recurring invitations set\n- Training modules completed: Security, Code of Conduct, Tooling, Hygiene\n- First small deliverable assigned within the first two weeks",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns",
+                "policy_topic": "onboarding, checklist",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Intern Onboarding Checklist Summary"
+            }
+        },
+        {
+            "content": "Reporting & Escalation:\n- If an intern has concerns about work environment, harassment, or discrimination, contact People & Culture directly. There is an anonymous reporting channel for sensitive issues.\n- If an intern requires help with their project, they should first ask their mentor, then manager, and then contact People & Culture if unresolved.",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns, managers",
+                "policy_topic": "reporting, escalation, harassment",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Intern Reporting & Escalation Paths"
+            }
+        },
+        {
+            "content": "Cross-Reference & Conflict Note:\n- This document intentionally specifies intern-only in-office requirements and should be considered the authoritative source for intern policies.\n- If you encounter conflicting guidance in `employee_handbook_v1.txt` or `manager_updates_2024.txt`, refer to this intern-specific FAQ for intern expectations. In case of further ambiguity, People & Culture\u2019s written guidance or signed contract terms take precedence.",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns",
+                "policy_topic": "policy_clarification, conflict_resolution",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": true,
+                "conflict_resolution_note": true,
+                "chunk_title": "Cross-Reference and Conflict Resolution Note for Intern Policy"
+            }
+        },
+        {
+            "content": "Contacts & Support Resources:\n- People & Culture: people@nebulagears.example\n- Intern Program Manager: interns@nebulagears.example\n- IT Support: it-support@nebulagears.example\n- Security Incident Response: security@nebulagears.example",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns",
+                "policy_topic": "contact_info",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Intern Contacts & Support Resources"
+            }
+        },
+        {
+            "content": "Appendix A: Intern Offer Addendum (Sample)\n- Offer Date:\n- Intern Name & Role:\n- Duration (Start/End dates):\n- Office Location: (Primary) \u2014 Required\n- Remote Work: Not permitted unless extenuating circumstances approved in writing by People & Culture\n- Special Accommodations: (if any) \u2014 to be included here and signed off by People & Culture",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns, managers",
+                "policy_topic": "intern_offer, remote_work, exceptions",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Appendix: Intern Offer Addendum Sample"
+            }
+        },
+        {
+            "content": "Appendix B: Sample Intern Schedule (Typical Week)\n- Mon: 09:30 \u2014 17:30 \u2014 Project pairing, mentorship check-in, training\n- Tue: 09:30 \u2014 17:30 \u2014 Team meetings, syncs, cross-functional collaboration\n- Wed: 09:30 \u2014 17:30 \u2014 Focused development work, mentor pairing\n- Thu: 09:30 \u2014 17:30 \u2014 Team demos, stakeholder reviews\n- Fri: 09:30 \u2014 17:30 \u2014 Wrap-ups, learning sessions, community activities",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns",
+                "policy_topic": "schedule, mentorship, collaboration",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Appendix: Sample Intern Weekly Schedule"
+            }
+        },
+        {
+            "content": "Document Ownership & Review:\n- Owner: People & Culture and Intern Program Office\n- Review Cadence: Quarterly or as needed with changes to company policy\n- Revision History: v2024.0 initial release \u2014 2024-06-01\n\n-- End of Intern Onboarding FAQ (v2024.0) --",
+            "metadata": {
+                "document_version": "2024.0",
+                "effective_date": "2024-06-01",
+                "author_department": "People & Culture & Early Careers Program",
+                "document_type": "intern_faq",
+                "applies_to": "interns",
+                "policy_topic": "document_info, policy_updates",
+                "specificity_level": "role_specific",
+                "is_role_specific_intern": true,
+                "is_authoritative_for_interns": true,
+                "supersedes_older_policies": false,
+                "conflict_resolution_note": false,
+                "chunk_title": "Intern FAQ Document Ownership & Review"
+            }
+        }
+    ]
+}
